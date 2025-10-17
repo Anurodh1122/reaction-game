@@ -1,6 +1,6 @@
 ## Game
 
-Try it live: [F1 Reaction Game Demo](https://f1-game.netlify.app/)  
+Play: [F1 Reaction Game Demo](https://f1-game.netlify.app/)  
 
 - Simulates an F1-style race start.  
 - Watch the lights turn on one by one.  
